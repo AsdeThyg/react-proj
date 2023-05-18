@@ -1,0 +1,27 @@
+.myForm {
+  padding: 15px;
+  margin: 15px auto;
+  max-width: 800px;
+}
+
+.myInput {
+  width: 500px;
+}
+
+.myBtn {
+  background-color: antiquewhite;
+  width: 80px;
+  cursor: pointer;
+}
+.myBtn:hover {
+  background-color: tan;
+}
+
+.myInput,
+.myBtn {
+  font-size: 20px;
+  height: 40px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+}
